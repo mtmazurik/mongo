@@ -49,30 +49,6 @@
       "probability": 1
     },
     {
-      "name": "eventTime",
-      "path": "eventTime",
-      "count": 1,
-      "types": [
-        {
-          "name": "Date",
-          "bsonType": "Date",
-          "path": "eventTime",
-          "count": 1,
-          "values": [
-            "2018-02-28T22:22:00.000Z"
-          ],
-          "total_count": 0,
-          "probability": 1,
-          "unique": 1,
-          "has_duplicates": false
-        }
-      ],
-      "total_count": 1,
-      "type": "Date",
-      "has_duplicates": false,
-      "probability": 1
-    },
-    {
       "name": "name",
       "path": "name",
       "count": 1,
